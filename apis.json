@@ -1,0 +1,60 @@
+{
+    "name": "GeoIPs",
+    "description": "Create an instant connection with your website visitors. Real-time IP Lookup: country, country code, city, latitude, longitude, timezone, owner.",
+    "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist\/api-butterfly.png",
+    "tags": [
+        "api provider",
+        "geo",
+        "have api",
+        "ip address",
+        "maps",
+        "pim"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/geoips\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GeoIPs",
+            "description": null,
+            "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist\/api-butterfly.png",
+            "humanURL": "http:\/\/www.geoips.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/geoips-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.geoips.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.geoips.com\/feed\/rss"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.geoips.com\/developer\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.geoips.com\/en\/services\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/geoips_com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.geoips.com"
+        }
+    ]
+}

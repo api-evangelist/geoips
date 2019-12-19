@@ -1,0 +1,12 @@
+{
+    "id": "33c7baca2d9d4e8b6bbe2bab4e87a5f0",
+    "name": "GeoIPs",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": []
+}
